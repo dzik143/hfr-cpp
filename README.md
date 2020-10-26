@@ -2,7 +2,7 @@
   - **NAIVE** implementation of [Hartree-Fock method](https://en.wikipedia.org/wiki/Hartree%E2%80%93Fock_method) in [GTO base](https://en.wikipedia.org/wiki/Gaussian_orbital),
   - **ARCHIVAL** code written in **2009**,
   - port of older [fortran code](https://github.com/dzik143/hfr-f77) to C++,
-  - **GPLv3 LICENSE** - use for any purpose as long as you keep copyright notice and keep open source.
+  - **GPLv3 LICENSE** - use for any purpose as long as you keep copyright note and open source.
 
 # Features:
   - **NAIVE SCF** loop - O(N^4) complexity,
